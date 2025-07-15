@@ -8,11 +8,11 @@ import (
 func main() {
 	for {
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
 		time.Sleep(5 * time.Second)
 	}
