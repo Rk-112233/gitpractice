@@ -9,7 +9,7 @@ func main() {
 	for {
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------PRATHMESH--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------MAIN1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
