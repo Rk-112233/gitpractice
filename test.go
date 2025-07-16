@@ -9,7 +9,6 @@ func main() {
 	for {
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------Ram---------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN1--------------------🚀", time.Now())
 		time.Sleep(5 * time.Second)
 	}
  
