@@ -11,7 +11,7 @@ func main() {
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------MAIN--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------MAIN1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy1--------------------🚀", time.Now())
 		fmt.Println("🚀 --------------copy2--------------------🚀", time.Now())
 		time.Sleep(5 * time.Second)
