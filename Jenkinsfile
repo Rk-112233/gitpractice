@@ -12,7 +12,7 @@ pipeline {
         stage('Run Hello World') {
             steps {
                 // Run the Go file
-                sh 'go run main.go'
+                sh 'go run test.go' 
             }
         }
     }
