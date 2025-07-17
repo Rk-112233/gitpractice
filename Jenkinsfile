@@ -5,7 +5,8 @@ pipeline {
         stage('Clone Code') {
             steps {
                 // Clone your repo
-                git 'https://github.com/Rk-112233/gitpractice.git'
+                git branch: 'main', url: 'https://github.com/Rk-112233/gitpractice.git'
+
             }
         }
 
