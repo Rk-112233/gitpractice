@@ -7,8 +7,8 @@ import (
 
 func main() {
 	for {
-		fmt.Println("🚀 --------------MAIN_changing@@ hahahaa :)--------------------🚀", time.Now())
-		fmt.Println("🚀 --------------Ram---------🚀", time.Now())
+		fmt.Println("🚀 --------------Ranjith--------------------🚀", time.Now())
+		fmt.Println("🚀 --------------Rk---------🚀", time.Now())
 		time.Sleep(5 * time.Second)
 	}
  
